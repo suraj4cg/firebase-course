@@ -1,5 +1,5 @@
 
-## Serverless Angular with Firebase & AngularFire Course
+## Serverless Angular 7  with Firebase 4 & AngularFire Course
 
 This repository contains the code of the [Serverless Angular with Firebase & AngularFire Course](https://angular-university.io/course/firebase-course).
 
